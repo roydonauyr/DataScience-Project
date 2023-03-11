@@ -1,4 +1,9 @@
 # DataScience-Project
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/DataScience-Project)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/DataScience-Project)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/DataScience-Project)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/DataScience-Project)
+
 Running machine learning to predict revenue of movies
 
 Overall Project
